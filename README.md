@@ -7,4 +7,12 @@
 <img src="capture/pinkTheme.PNG" width="700">
 <img src="capture/greyTheme.PNG" width="700">
 
+## Sign-Up Forget-Password
+
+<img src="capture/signUp.PNG" width="700">
+<img src="capture/ForgetPassword.PNG" width="700">
+
+
+
+
 
