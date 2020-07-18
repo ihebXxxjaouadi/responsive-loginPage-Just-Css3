@@ -20,6 +20,6 @@
 
 ### for MOBILE SCREEN
 
-<img src="capture/MobileScreen.PNG" width="700">
+<img src="capture/MobileScreen.PNG" width="200">
 
 
