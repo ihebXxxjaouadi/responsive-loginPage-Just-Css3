@@ -7,12 +7,19 @@
 <img src="capture/pinkTheme.PNG" width="700">
 <img src="capture/greyTheme.PNG" width="700">
 
-## Sign-Up Forget-Password
+## Sign-Up/Forget-Password
 
-<img src="capture/signUp.PNG" width="700">
+<img src="capture/SignUp.PNG" width="700">
 <img src="capture/ForgetPassword.PNG" width="700">
 
+## Responsive using( Media queries )
 
+### for TABLET SCREEN
 
+<img src="capture/ScreenTablet.PNG" width="700">
+
+### for MOBILE SCREEN
+
+<img src="capture/ScreenMobile.PNG" width="700">
 
 
